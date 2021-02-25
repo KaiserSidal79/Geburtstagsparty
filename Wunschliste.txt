@@ -2,3 +2,5 @@ PC
 Geld
 Auto
 Schuhe
+Jacke
+Reise
